@@ -1,0 +1,3 @@
+# competition-item
+比赛文件
+主要修改文件在bearpi-iot_std_liteos-master\bearpi-iot_std_liteos-master\targets\STM32L431_BearPi\Demos\oc_wifi_lwm2m_agriculture的oc_agriculture_template.c文件
